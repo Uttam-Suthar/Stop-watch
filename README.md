@@ -60,9 +60,10 @@ https://github.com/Uttam-Suthar/Stop-watch/assets/140789157/1da54761-06d0-43b1-a
 <ul>
     <li>
         <h3>Reset Button </h3>
-
         <ul>
-            <li>On click of reset stop the watch (if already started) and set timer as 0</li>
+            <li>
+                On click of reset stop the watch (if already started) and set timer as 0
+            </li>
         </ul>
     </li>
 </ul>
