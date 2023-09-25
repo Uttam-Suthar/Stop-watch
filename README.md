@@ -62,6 +62,8 @@ https://github.com/Uttam-Suthar/Stop-watch/assets/140789157/1da54761-06d0-43b1-a
 
 
 <h2>Screenshots</h2>
+![mainhomePage](https://github.com/Uttam-Suthar/Stop-watch/assets/140789157/bce278f3-4545-4ee2-9c0f-83b8da43b4ab)
+
 ![mainhomePage](https://github.com/Uttam-Suthar/Stop-watch/assets/140789157/ff1220e5-8ee1-493b-b6df-5c025b61a726)
 
 ![home page](https://github.com/Uttam-Suthar/Stop-watch/assets/140789157/2eb91034-e704-4c3b-ba13-bff416ec99df)
